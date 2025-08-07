@@ -1,0 +1,14 @@
+# Ignorer tous les fichiers par défaut
+*
+
+# Inclure les fichiers .tex
+!*.tex
+
+# Inclure les fichiers .pdf
+!*.pdf
+
+# Inclure les fichiers image .png, .jpeg, .jpg, .svg
+!*.png
+!*.jpeg
+!*.jpg
+!*.svg
